@@ -1,0 +1,16 @@
+C:\Projects\DingTest\DingTest\DingTest\bin\Debug\DingTest.dll
+C:\Projects\DingTest\DingTest\DingTest\bin\Debug\DingTest.pdb
+C:\Projects\DingTest\DingTest\DingTest\bin\Debug\WatiN.Core.dll
+C:\Projects\DingTest\DingTest\DingTest\bin\Debug\Interop.SHDocVw.dll
+C:\Projects\DingTest\DingTest\DingTest\obj\Debug\DingTest.csprojResolveAssemblyReference.cache
+C:\Projects\DingTest\DingTest\DingTest\obj\Debug\DingTest.dll
+C:\Projects\DingTest\DingTest\DingTest\obj\Debug\DingTest.pdb
+C:\Projects\DingTest\DingTest\DingTest\bin\Debug\nunit.framework.dll
+C:\dinglitest\DingTest\DingTest\bin\Debug\DingTest.dll
+C:\dinglitest\DingTest\DingTest\bin\Debug\DingTest.pdb
+C:\dinglitest\DingTest\DingTest\bin\Debug\nunit.framework.dll
+C:\dinglitest\DingTest\DingTest\bin\Debug\WatiN.Core.dll
+C:\dinglitest\DingTest\DingTest\bin\Debug\Interop.SHDocVw.dll
+C:\dinglitest\DingTest\DingTest\obj\Debug\DingTest.csprojResolveAssemblyReference.cache
+C:\dinglitest\DingTest\DingTest\obj\Debug\DingTest.dll
+C:\dinglitest\DingTest\DingTest\obj\Debug\DingTest.pdb
