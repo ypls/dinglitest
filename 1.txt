@@ -1,3 +1,0 @@
-git@gitlab.com:ypls/dingtest.git
-
-12
